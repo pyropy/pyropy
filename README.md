@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Srdjan Stankovic - a Python developer currently based in Banja Luka.
+
+🔭 I’m currently working on betting related stuff at [Alea Control](https://aleacontrol.com).
+
+🌱 I’m really interested in backend development, microservices, distributed systems. I'm currently learning Elixir.
+
+📫 How to reach me:
+- Email me at stankovic.srdjo@gmail.com
+- Follow me at Twitter [@pyropy_](https://twitter.com/pyropy_)
+
 <!--
 **pyropy/pyropy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
