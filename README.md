@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Srdjan Stankovic - a Python developer currently based in Banja Luka.
+I'm Srdjan Stankovic - a Python developer currently based in ~~Banja Luka~~ Derventa.
 
-🔭 I’m currently working on betting related stuff at [Alea Control](https://aleacontrol.com).
+🔭 I’m currently working on betting related stuff at [Alea Control](https://aleacontrol.com). Soon I'll be joining [Ministry of Programming](https://mop.ba/) a FT1000 Company based in Sarajevo.
 
-🌱 I’m really interested in backend development, microservices, distributed systems. I'm currently learning Elixir.
+🌱 I’m really interested in backend development, microservices, functional programming, distributed systems. I'm currently learning Elixir.
 
 📫 How to reach me:
 - Email me at stankovic.srdjo@gmail.com
