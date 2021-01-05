@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Srdjan Stankovic - a Python developer currently based in ~~Banja Luka~~ Derventa.
+I'm Srdjan Stankovic - a Python developer.
 
 👑 I’m currently working as a Python Developer at [Ministry of Programming](https://mop.ba/) a FT1000 Company based in Sarajevo.
 
